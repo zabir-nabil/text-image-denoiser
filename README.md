@@ -17,4 +17,4 @@ benchmark dataset: [LP HDR dataset](http://academictorrents.com/details/8ed33d02
 
 ##### Denoised samples
 
-![alt-text-1](unet_demo/demo0.png "sample 1") ![alt-text-2](unet_demo/demo0.png "sample 2")
+<img src="unet_demo/demo0.png" width="425"/> <img src="unet_demo/demo0.png" width="425"/>
