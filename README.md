@@ -6,13 +6,15 @@ benchmark dataset: [LP HDR dataset](http://academictorrents.com/details/8ed33d02
 
 ### Model-1: U-Net
 
+<img src="unet.png" width="425" alt="UNet">
+
 - [x] s&p + gaussian blur
 - [x] single frame
 - [ ] real noise map
 
 #### Loss plot
 <hr>
-<img src="unet.png" width="425" alt="UNet loss">   <img src="model_loss_unet.png" width="425" alt="UNet loss">
+   <img src="model_loss_unet.png" width="425" alt="UNet loss">
 <hr>
 
 #### Denoised samples
