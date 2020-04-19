@@ -12,7 +12,7 @@ benchmark dataset: [LP HDR dataset](http://academictorrents.com/details/8ed33d02
 
 #### Loss plot
 <hr>
-<img src="model_loss_unet.png" width="425" alt="UNet loss" align="middle">
+<img src="unet.png" width="425" alt="UNet loss" align="middle">   <img src="model_loss_unet.png" width="425" alt="UNet loss" align="middle">
 <hr>
 
 #### Denoised samples
